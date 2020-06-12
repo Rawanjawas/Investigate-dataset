@@ -1,15 +1,15 @@
 **Overview**
-Introduction
+**Introduction**
 Data Analysis project by using TMDb movies dataset. The data set contains information about 10,000 movies collected from The Movie Database (TMDb). I investigated this data to answer question that can analyised from this data set, useing jupyter nootbook, Python, Numpy, Pandas, and matplotlib.
 
 
 **Question**
-1- What is the averege and maximum runtime of the movies
-2- what is th movie with highest and lowest profit?
-3- what is the most frequent genres?
-4-What is the most frequent cast?
-5-What is the most frequent director?
-6-Does high budget cause a higher profit?
+What is the averege and maximum runtime of the movies
+what is th movie with highest and lowest profit?
+what is the most frequent genres?
+What is the most frequent cast?
+What is the most frequent director?
+Does high budget cause a higher profit?
 
 
 **Conclusion**
